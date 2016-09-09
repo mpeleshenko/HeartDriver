@@ -1,5 +1,12 @@
 # HeartDriver
 
+## Installation
+* Install dependencies
+```
+cd snowflake
+npm install
+```
+
 ## Running on iOS
 To run your app on iOS:
 * cd /Users/Michael/Projects/HeartDriver
