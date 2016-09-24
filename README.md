@@ -3,7 +3,7 @@
 ## Installation
 * Install dependencies
 ```
-cd snowflake
+cd HeartDriver
 npm install
 ```
 
